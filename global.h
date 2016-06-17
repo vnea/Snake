@@ -1,0 +1,6 @@
+#ifndef GLOBAL_H_INCLUDED
+#define GLOBAL_H_INCLUDED
+
+const int HAUTEUR = 30, LARGEUR = 60;
+
+#endif // GLOBAL_H_INCLUDED
